@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm Siddhant, from Pune, India<br><br>- 📚 I'm currently learning AI/ML <br>- 📫 How to reach me siddhantankar@gmail.com</p>
+<p align="left">I'm Siddhant, from Pune, India<br>
+  <br>
+- 🌱 I’m currently learning data analytics and machine learning.<br>
+- 👯 I’m looking to collaborate on open source projects.<br>
+- 💬 Ask me about anything related to coding and data analysis.<br>
+- 📫 How to reach me siddhantankar@gmail.com</p><br>
 
 ###
 
@@ -77,3 +82,5 @@
 </div>
 
 ###
+<BR>
+Thank you for visiting my profile! Have a great day! 😊
